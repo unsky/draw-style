@@ -1,0 +1,5 @@
+Please download imagenet-vgg-verydeep-19.mat onto this folder
+
+http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat
+
+From: `Very Deep Convolutional Networks for Large-Scale Image Recognition', Karen Simonyan and Andrew Zisserman, arXiv technical report, 2014'.
